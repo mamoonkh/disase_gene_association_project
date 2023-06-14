@@ -1,4 +1,4 @@
-The final report: Disease Gene Association with [link](https://github.com/mamoonkh/disase_gene_association_project/blob/main/Disease%20Gene%20Association%20with%20Adversarial%20Graph%20Frameworks.pdf)
+Final report: Disease Gene Association Project [link](https://github.com/mamoonkh/disase_gene_association_project/blob/main/Disease%20Gene%20Association%20with%20Adversarial%20Graph%20Frameworks.pdf)
 is included.
 
 For the Disease-Gene Prediction Project all the code to run and visualize the metrics is provided in the Jupyter Notebook: Deep_Learning_Project_Code.ipynb
