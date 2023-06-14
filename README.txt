@@ -1,3 +1,5 @@
+The final report: Disease Gene Association with Adversarial Graph Frameworks.pdf is included as well.
+
 For the Disease-Gene Prediction Project all the code to run and visualize the metrics is provided in the Jupyter Notebook: Deep_Learning_Project_Code.ipynb
 
 All instructions are provided in the Jupyter Notebook.
@@ -17,4 +19,3 @@ Note: The same installation code above is also provided in the Jupyter Notebook
 
 Note: Prior to running Node2Vec we must install torch scatter which in general takes a lot of time. Also, running the Node2Vec algorithm may require a GPU to train.
 
-5. The final report: Disease Gene Association with Adversarial Graph Frameworks.pdf is included as well.
