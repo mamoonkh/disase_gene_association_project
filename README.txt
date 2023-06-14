@@ -1,4 +1,4 @@
-The final report: Disease Gene Association with Adversarial Graph Frameworks.pdf(Disease Gene Association with Adversarial Graph Frameworks.pdf) is included.
+The final report: Disease Gene Association with [Adversarial Graph Frameworks.pdf](Disease Gene Association with Adversarial Graph Frameworks.pdf) is included.
 
 For the Disease-Gene Prediction Project all the code to run and visualize the metrics is provided in the Jupyter Notebook: Deep_Learning_Project_Code.ipynb
 
